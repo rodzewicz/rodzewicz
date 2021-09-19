@@ -6,6 +6,7 @@
 ## Also experienced in
 - MySQL, PgSQL, MS-SQL
 - Javascript
+- Vue
 - NGINX
 - Ubuntu Server
 ### Raising skills in
